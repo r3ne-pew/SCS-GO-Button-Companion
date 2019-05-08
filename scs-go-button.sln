@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scs-go-button", "scs-go-button\scs-go-button.csproj", "{45575F4B-44E6-4B3A-893E-011B5C1868BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45575F4B-44E6-4B3A-893E-011B5C1868BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45575F4B-44E6-4B3A-893E-011B5C1868BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45575F4B-44E6-4B3A-893E-011B5C1868BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45575F4B-44E6-4B3A-893E-011B5C1868BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C0613BA-F773-4A77-91F6-0EC122D5E367}
+	EndGlobalSection
+EndGlobal
