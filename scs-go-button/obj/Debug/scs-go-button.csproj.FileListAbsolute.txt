@@ -8,3 +8,13 @@ C:\Users\r3ne\source\repos\scs-go-button\scs-go-button\obj\Debug\scs-go-button.c
 C:\Users\r3ne\source\repos\scs-go-button\scs-go-button\obj\Debug\scs-go-button.csproj.CoreCompileInputs.cache
 C:\Users\r3ne\source\repos\scs-go-button\scs-go-button\obj\Debug\scs-go-button.exe
 C:\Users\r3ne\source\repos\scs-go-button\scs-go-button\obj\Debug\scs-go-button.pdb
+C:\Users\r3ne\source\repos\scs-go-button\SCS-GO-Button-Companion\scs-go-button\bin\Debug\scs-go-button.exe.config
+C:\Users\r3ne\source\repos\scs-go-button\SCS-GO-Button-Companion\scs-go-button\bin\Debug\scs-go-button.exe
+C:\Users\r3ne\source\repos\scs-go-button\SCS-GO-Button-Companion\scs-go-button\bin\Debug\scs-go-button.pdb
+C:\Users\r3ne\source\repos\scs-go-button\SCS-GO-Button-Companion\scs-go-button\obj\Debug\scs-go-button.csprojAssemblyReference.cache
+C:\Users\r3ne\source\repos\scs-go-button\SCS-GO-Button-Companion\scs-go-button\obj\Debug\scs_go_button.SCSGoButtonCompanion.resources
+C:\Users\r3ne\source\repos\scs-go-button\SCS-GO-Button-Companion\scs-go-button\obj\Debug\scs_go_button.Properties.Resources.resources
+C:\Users\r3ne\source\repos\scs-go-button\SCS-GO-Button-Companion\scs-go-button\obj\Debug\scs-go-button.csproj.GenerateResource.cache
+C:\Users\r3ne\source\repos\scs-go-button\SCS-GO-Button-Companion\scs-go-button\obj\Debug\scs-go-button.csproj.CoreCompileInputs.cache
+C:\Users\r3ne\source\repos\scs-go-button\SCS-GO-Button-Companion\scs-go-button\obj\Debug\scs-go-button.exe
+C:\Users\r3ne\source\repos\scs-go-button\SCS-GO-Button-Companion\scs-go-button\obj\Debug\scs-go-button.pdb
